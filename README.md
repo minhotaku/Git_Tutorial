@@ -1,7 +1,7 @@
-# Git Tutorial (Continued)
+# Git Tutorial 
 ## 1. Adding files to the staging area
 Command: 
-  ```bash 
+```bash 
     git add .
 ```
 
