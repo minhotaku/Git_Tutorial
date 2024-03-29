@@ -41,11 +41,13 @@ Explanation:
 
 git remote add origin git@github.com:your-account/git-tutorial.git: 
 Add a remote repository with the name "origin" and the URL as https://www.youtube.com/watch?v=lOeQUwdAjE0.
+
 git branch -M main: Rename the current branch (master) to main.
 git push -u origin main: Push the main branch to the remote repository "origin".
+
 Notes:
 
-Replace your-account with your Github username.
+- Replace your-account with your Github username.
 ## 5. Checking the current branches
 Command:
 ```bash
